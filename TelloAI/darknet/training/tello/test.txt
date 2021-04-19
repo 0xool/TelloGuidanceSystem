@@ -1,0 +1,2 @@
+/Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/dataset/IMG_7111.jpg
+/Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/dataset/JUEB8896.jpg

@@ -1,0 +1,6 @@
+classes= 1
+train  = /Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/train.txt
+valid  = /Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/test.txt
+names = tello.names
+backup = /Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/backup/
+

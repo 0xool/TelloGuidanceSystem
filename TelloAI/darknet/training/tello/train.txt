@@ -1,0 +1,6 @@
+/Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/dataset/IMG_6848.jpg
+/Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/dataset/IMG_7038.jpg
+/Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/dataset/IMG_7086.jpg
+/Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/dataset/IMG_7096.jpg
+/Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/dataset/IMG_7102.jpg
+/Users/cyrusrefahi/Documents/Tello_AI/TelloAI/darknet/training/tello/dataset/IMG_7107.jpg
